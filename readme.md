@@ -1,6 +1,6 @@
 # Library for Custom Shapes/Icons for Draw.io
 
-This is a library for custom shapes to be used in the program (Draw.io)[https://github.com/jgraph/drawio]
+This is a library for custom shapes to be used in the program [Draw.io](https://github.com/jgraph/drawio)
 
 ## Library Categories
 
